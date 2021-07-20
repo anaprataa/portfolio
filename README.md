@@ -9,7 +9,7 @@ As a Chemical Engineering student and newcomer to the world of Data Science, I c
 
 At this moment I'm searching for my first professional experience as an intern or trainee. In the meanwhile, I keep improving my data science skills.
 
-**Background in:** Python, Machine Learning and Chemical Engineering.
+**Background in:** Python, Machine Learning, Matlab and Chemical Engineering.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/analuizaprata/)
@@ -20,5 +20,3 @@ At this moment I'm searching for my first professional experience as an intern o
 See all projects I've developed:
 
 Still in progress. :warning:
-
----
