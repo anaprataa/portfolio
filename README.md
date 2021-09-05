@@ -19,4 +19,4 @@ At this moment I'm searching for my first professional experience as an intern o
 ## Projects:
 See all projects I've developed:
 
-- [Airbnb Munich Data Analysis](https://nbviewer.jupyter.org/github/anaprataa/portfolio/blob/main/Dados%20do%20Airbnb%20-%20Munique/analise_dados_airbnb_munique.ipynb)
+- [Airbnb Munich Data Analysis](https://github.com/anaprataa/portfolio/blob/main/Dados%20do%20Airbnb%20-%20Munique/analise_dados_airbnb_munique.ipynb)
